@@ -21,4 +21,4 @@ Skrip ini tidak memerlukan *library* eksternal tambahan dan dapat dijalankan mur
 
 1. *Clone* repositori ini ke dalam direktori lokal komputermu:
    ```bash
-   git clone [https://github.com/username-kamu/nama-repositori.git](https://github.com/username-kamu/nama-repositori.git)](https://github.com/agislenterapratama-stack/Praktikum-Metode-Numerik-5)
+   git clone (https://github.com/agislenterapratama-stack/Praktikum-Metode-Numerik-5)
